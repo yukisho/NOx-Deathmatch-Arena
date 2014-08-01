@@ -2,7 +2,6 @@
   
 Deathmatch Arena  
 Made by Gravvy @ www.nitrousclan.com  
-You have permission to modify  
   
 ======================================  
 
