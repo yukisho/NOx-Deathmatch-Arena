@@ -13,5 +13,5 @@ Put buildings folder into server root.
 
 Add the following to the bottom of init\server_functions.sqf
 
-//Deathmatch Arena
+//Deathmatch Arena  
 execVM "\z\addons\dayz_server\buildings\noxdeathmatch.sqf";
